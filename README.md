@@ -1,7 +1,6 @@
 - 👋 Hi, I’m brian kibet nge'no
-- 👀 I’m interested in frontend development and IT security
-- 🌱 I’m currently a student in IT
-- 💞️ I’m looking to collaborate on .various frontend idea projects and other coding challanges..
+- 👀 I’m interested in developer operations
+- 💞️ I’m looking to collaborate on .various frontend idea , backend projects and other coding challanges..
   .
 
 <!---
